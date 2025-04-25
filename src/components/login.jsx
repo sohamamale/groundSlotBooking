@@ -13,7 +13,7 @@ function Login() {
     return (
     <>
     <div className="border border-primary m-5 p-5">
-        <h1 className="display-3 centerHeader">Login</h1>
+        <h1 className="display-3 centerHeader">Login.</h1>
         <form onSubmit={handleSubmit}>
             <div className="mb-3">
                 <label htmlFor="exampleInputEmail1" className="form-label">Email address</label>
